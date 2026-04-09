@@ -22,7 +22,7 @@ The objective of this project is to analyze Amazon sales data to identify trends
 - Top products
 - Customer location analysis
 
- ##Key Insights
+ ## Key Insights
 - Electronics dominates revenue
 - Sales peak in Feb–March
 - Revenue concentrated in few products
